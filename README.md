@@ -20,5 +20,5 @@
 
 Apaixonado por tecnologia, adoro resolver problemas e encontrar soluções. 
 
- ![Snake animation](https://github.com/leandrocarvalhodev/leandrocarvalhodev/blob/output/github-contribution-grid-snake.svg)
+
 
